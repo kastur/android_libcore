@@ -10,6 +10,7 @@ import java.io.InputStreamReader;
 /**
  * Provides privacy handling for {@link java.lang.ProcessManager}
  * @author Svyatoslav Hresyk
+ * @hide
  */
 public class PrivacyProcessManager {
     
